@@ -7,7 +7,7 @@ If you want to connect, or maybe you want my help to build something awesome, ju
 
 ## ⚛️ Main Technologies
 
-![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,mysql,git,figma,cloudflare,jquery,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,next,tailwind,graphql,mysql,git,figma,cloudflare,jquery,vscode&theme=light)
 
 ## 🧑‍🤝‍🧑 Join My Community (we're mostly crypto & nft peeps)
 
