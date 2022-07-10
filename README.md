@@ -19,9 +19,8 @@ If you want to connect, or maybe you want my help to build something awesome, ju
 
 [![Community](https://discordapp.com/api/guilds/723794614213017643/widget.png?style=banner2)](https://discord.gg/QnendBhWht)
 
-If you love what I do, maybe consider buying me a coffee, I really do love it! 🥺👉👈
+## ☕ If you love what I do, maybe consider buying me a coffee, I really love it!
 
 <a href="https://www.buymeacoffee.com/theoroque" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
 
 ## I'll see you somewhere! Let's BUILD! ⚒️
