@@ -11,6 +11,7 @@ If you want to connect, or maybe you want my help to build something awesome, ju
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+currently+unemployed;You+can+hire+me+:D)](https://git.io/typing-svg)
 
+
 ## 🌱 What I'm doing and What I've done? 
 
 - Helped co-lead junior to senior frontend developers at one of the biggest business processes companies in the globe.
@@ -18,13 +19,16 @@ If you want to connect, or maybe you want my help to build something awesome, ju
 - Content creation teaching and advocating for a healthy web3 community in the Philippines. 
 - Building different types of web application for different industry startups.
 
+
 ## ⚛️ Main Technologies
 
 ![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,next,tailwind,graphql,mysql,git,figma,jquery,vscode,vercel&theme=light)
 
+
 ## 🧑‍🤝‍🧑 Join My Community (we're mostly crypto & nft peeps)
 
 [![Community](https://discordapp.com/api/guilds/723794614213017643/widget.png?style=banner2)](https://discord.gg/QnendBhWht)
+
 
 ## ☕ If you love what I do, maybe consider buying me a coffee, I really love it!
 
