@@ -11,6 +11,13 @@ If you want to connect, or maybe you want my help to build something awesome, ju
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+currently+unemployed;You+can+hire+me+:D)](https://git.io/typing-svg)
 
+## 🌱 What I'm doing and What I've done? 
+
+- Helped co-lead junior to senior frontend developers at one of the biggest business processes companies in the globe.
+- Contributed as frontend developer at Howdy Games: Honest Farmer Club which is an NFT PFP project with DeFi and Play-and-Earn capabilities. I became the lead developer overtime.
+- Content creator teaching and advocating for a healthy web3 community in the Philippines. 
+- Building different types of web application for different industry startups.
+
 ## ⚛️ Main Technologies
 
 ![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,next,tailwind,graphql,mysql,git,figma,jquery,vscode,vercel&theme=light)
