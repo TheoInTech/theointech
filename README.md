@@ -18,19 +18,24 @@ If you want to connect, or maybe you want my help to build something awesome, ju
 - Content creation teaching and advocating for a healthy web3 community in the Philippines. 
 - Building different types of web application for different industry startups.
 
+<br />
 
 ### ⚛️ Main Technologies
 
 ![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,next,tailwind,graphql,mysql,git,figma,jquery,vscode,vercel&theme=light)
 
+<br />
 
 ### 🧑‍🤝‍🧑 Join My Community (we're mostly crypto & nft peeps)
 
 [![Community](https://discordapp.com/api/guilds/723794614213017643/widget.png?style=banner2)](https://discord.gg/QnendBhWht)
 
+<br />
 
 ### ☕ If you love what I do, maybe consider buying me a coffee, I really love it!
 
 <a href="https://www.buymeacoffee.com/theoroque" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+<br />
 
 ### I'll see you somewhere! Let's BUILD! ⚒️
