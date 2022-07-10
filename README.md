@@ -6,7 +6,7 @@
     <img src="theoroque-me.png" width="80%">
 </p>
 
-I am a Filipino Front-end Software Engineer who is now venturing and diving into the world of Web3 development.
+I am a <b>Filipino Front-end Software Engineer</b> who is now venturing and diving into the world of Web3 development.
 If you want to connect, or maybe you want my help to build something awesome, just hit me up on my socials above ☝️
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+currently+unemployed;You+can+hire+me+:D)](https://git.io/typing-svg)
