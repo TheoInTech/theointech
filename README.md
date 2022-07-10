@@ -5,7 +5,6 @@
 <p align="center">
     <img src="theoroque-me.png" width="60%">
 </p>
-<br/>
 
 I am a Filipino Front-end Software Engineer who is now venturing and diving into the world of Web3 development.
 If you want to connect, or maybe you want my help to build something awesome, just hit me up on my socials above ☝️
