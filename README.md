@@ -15,7 +15,7 @@ If you want to connect, or maybe you want my help to build something awesome, ju
 
 - Helped co-lead junior to senior frontend developers at one of the biggest business processes companies in the globe.
 - Contributing as frontend developer at Howdy Games: Honest Farmer Club which is an NFT PFP project with DeFi and Play-and-Earn capabilities. I became the lead developer overtime.
-- Content creator teaching and advocating for a healthy web3 community in the Philippines. 
+- Content creation teaching and advocating for a healthy web3 community in the Philippines. 
 - Building different types of web application for different industry startups.
 
 ## ⚛️ Main Technologies
