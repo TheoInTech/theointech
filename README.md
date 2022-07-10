@@ -11,8 +11,7 @@ If you want to connect, or maybe you want my help to build something awesome, ju
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+currently+unemployed;You+can+hire+me+:D)](https://git.io/typing-svg)
 
-
-### 🌱 What I'm doing and What I've done? 
+### 🌱 What I've done and What I'm doing? 
 
 - Helped co-lead junior to senior frontend developers at one of the biggest business processes companies in the globe.
 - Contributing as frontend developer at Howdy Games: Honest Farmer Club which is an NFT PFP project with DeFi and Play-and-Earn capabilities. I became the lead developer overtime.
