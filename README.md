@@ -20,7 +20,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+currently+unemployed;You+can+hire+me+:D)](https://git.io/typing-svg)
 
-### ⚛️ Main Technologies
+### ⚛️ Technologies
 
 ![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,next,tailwind,graphql,mysql,git,figma,jquery,vscode,vercel&theme=light)
 
