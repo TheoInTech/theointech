@@ -28,7 +28,7 @@
 
 ### 🧑‍🤝‍🧑 Join My Community (we're mostly crypto & nft peeps)
 
-[![Community](https://discordapp.com/api/guilds/723794614213017643/widget.png?style=banner2)](https://discord.gg/QnendBhWht)
+[![Community](https://discordapp.com/api/guilds/899318565050667030/widget.png?style=banner2)](https://discord.gg/hfc)
 
 <br />
 
