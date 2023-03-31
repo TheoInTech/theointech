@@ -6,10 +6,10 @@
     <img src="theoroque-me.png" width="80%">
 </p>
 
-<p>I am a <b>Filipino Front-end Software Engineer</b> who is now venturing and diving into the world of Web3 development.</p>
+<p>I am a <b>Fullstack Software Engineer</b> who is now venturing and diving into the world of Web3 development.</p>
 <p>If you want to connect, or maybe you want my help to build something awesome, just hit me up on my socials below 👇</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theoroque/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/CrypTopeng.NFT) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/CrypTopeng_NFT) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/cryptopeng_nft)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theoroque/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/theoroque95) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/HowdyTh3o) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/HowdyTh3o)
 
 ### 🌱 What I've done and What I'm doing? 
 
