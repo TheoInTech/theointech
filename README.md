@@ -14,7 +14,7 @@
 ### 🌱 What I've done and What I'm doing? 
 
 - Helped co-lead junior to senior frontend developers at one of the biggest business processes companies in the globe.
-- Contributing as frontend developer at Howdy Games: Honest Farmer Club which is an NFT PFP project with DeFi and Play-and-Earn capabilities. I became the lead developer overtime.
+- CEO and Lead Developer at Honest Farmer Club (an NFT PFP project with GameFi and DeFi utilities) and The Howdy Studios (a web3 dev studio)
 - Content creation teaching and advocating for a healthy web3 community in the Philippines. 
 - Building different types of web application for different industry startups.
 
@@ -28,7 +28,7 @@
 
 ### 🧑‍🤝‍🧑 Join My Community (we're mostly crypto & nft peeps)
 
-[![Community](https://discordapp.com/api/guilds/723794614213017643/widget.png?style=banner2)](https://discord.gg/QnendBhWht)
+[![Community](https://discordapp.com/api/guilds/899318565050667030/widget.png?style=banner2)](https://discord.gg/hfc)
 
 <br />
 
