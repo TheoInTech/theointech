@@ -4,7 +4,7 @@
     <img src="theoroque-me.png" width="80%">
 </p>
 
-<p>i am a <b>fullstack software engineer</b> who is now venturing and diving into the world of web3 development.</p>
+<p>i am a <b>fullstack software engineer</b> who is now venturing and diving into the world of web3 and ai development.</p>
 <p>if you want to connect, or maybe you want my help to build something awesome, just hit me up on my socials below 👇</p>
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077b5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theoroque/) [![facebook](https://img.shields.io/badge/facebook-%231877f2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/theoroque95) [![twitter](https://img.shields.io/badge/twitter-%231da1f2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/howdyth3o) [![youtube](https://img.shields.io/badge/youtube-%23ff0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/howdyth3o)
@@ -15,12 +15,13 @@
 - founded the howdy studios, a web3 dev studio, helping web3 businesses achieve their web3 goal.
 - content creation teaching and advocating for a healthy web3 community in the philippines. 
 - building different types of web application (mainly micro saas) for different industry startups, focused on emerging technologies like web3 and ai.
+- graduated buildspace n&w s3 and will continue to build on s4! lfg!
 
-[![typing svg](https://readme-typing-svg.herokuapp.com/?lines=i'm+currently+unemployed;you+can+hire+me+:d)](https://git.io/typing-svg)
+[![typing svg](https://readme-typing-svg.herokuapp.com/?lines=i'm+building+nonstop;but+you+can+still+hire+me+:d)](https://git.io/typing-svg)
 
 ### ⚛️ technologies
 
-![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,next,tailwind,graphql,mysql,git,figma,jquery,vscode,vercel&theme=light)
+![skills](https://skillicons.dev/icons?i=aws,azure,supabase,ts,react,next,tailwind,java,spring,solidity,graphql,mysql,git,figma,vercel&theme=light)
 
 <br />
 
