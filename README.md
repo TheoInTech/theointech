@@ -1,9 +1,5 @@
 # hi, i'm [theo](https://theoroque.me/)!
 
-<p align="center">
-    <img src="theoroque-me.png" width="80%">
-</p>
-
 <p>i am a <b>fullstack software engineer</b> who is now venturing and diving into the world of web3 and ai development.</p>
 <p>if you want to connect, or maybe you want my help to build something awesome, just hit me up on my socials below 👇</p>
 
