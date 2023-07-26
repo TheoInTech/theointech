@@ -3,7 +3,11 @@
 <p>i am a <b>fullstack software engineer</b> who is now venturing and diving into the world of web3 and ai development.</p>
 <p>if you want to connect, or maybe you want my help to build something awesome, just hit me up on my socials below 👇</p>
 
-[![linkedin](https://img.shields.io/badge/linkedin-%230077b5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theoroque/) [![facebook](https://img.shields.io/badge/facebook-%231877f2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/theoroque95) [![twitter](https://img.shields.io/badge/twitter-%231da1f2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/_theoroque) [![youtube](https://img.shields.io/badge/youtube-%23ff0000.svg?&style=flat-square&logo=youtube&logoColor=white)]([https://www.youtube.com/c/howdyth3o](https://www.youtube.com/@HowdyTh3o)) [![threads](https://img.shields.io/badge/threads-%23000000.svg?&style=flat-square&logo=threads&logoColor=white)]([https://www.youtube.com/c/howdyth3o](https://www.threads.net/@_theoroque))
+[![linkedin](https://img.shields.io/badge/linkedin-%230077b5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theoroque/)
+[![twitter](https://img.shields.io/badge/twitter-%231da1f2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/_theoroque)
+[![threads](https://img.shields.io/badge/threads-%23000000.svg?&style=flat-square&logo=threads&logoColor=white)](https://www.threads.net/@_theoroque)
+[![facebook](https://img.shields.io/badge/facebook-%231877f2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/theoroque95)
+[![youtube](https://img.shields.io/badge/youtube-%23ff0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@HowdyTh3o)
 
 ### 🌱 what i've done and what i'm doing? 
 
