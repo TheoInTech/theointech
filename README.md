@@ -8,7 +8,7 @@
 ### 🌱 what i've done and what i'm doing? 
 
 - helped co-lead junior to senior frontend developers at one of the biggest business processes companies in the globe.
-- founded the howdy studios, a web3 dev studio, helping web3 businesses achieve their web3 goal.
+- founded <a href="https://thehowdystudios.com/" target="_blank">the howdy studios</a>, a web3 dev studio, helping web3 businesses achieve their web3 goal.
 - content creation teaching and advocating for a healthy web3 community in the philippines. 
 - building different types of web application (mainly micro saas) for different industry startups, focused on emerging technologies like web3 and ai.
 - graduated buildspace n&w s3 and will continue to build on s4! lfg!
