@@ -1,41 +1,36 @@
 # Hi, I'm [Theo](https://theoroque.me/)!
 
-
-
 <p align="center">
     <img src="theoroque-me.png" width="80%">
 </p>
 
-<p>I am a <b>Fullstack Software Engineer</b> who is now venturing and diving into the world of Web3 development.</p>
-<p>If you want to connect, or maybe you want my help to build something awesome, just hit me up on my socials below 👇</p>
+<p>I am a seasoned Fullstack Software Engineer with extensive experience in Web3 development.</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theoroque/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/theoroque95) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/HowdyTh3o) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/HowdyTh3o)
+### 🌐 My Professional Journey 
 
-### 🌱 What I've done and What I'm doing? 
+- Previously led technology teams in one of the world's leading business process companies.
+- Currently serving as the CEO of Honest Farmer Club and Lead Developer at The Howdy Studios.
+- Actively involved in community building and content creation for Web3 in the Philippines.
+- Developed custom web applications for various startups across different industries.
 
-- Helped co-lead junior to senior frontend developers at one of the biggest business processes companies in the globe.
-- CEO and Lead Developer at Honest Farmer Club (an NFT PFP project with GameFi and DeFi utilities) and The Howdy Studios (a web3 dev studio)
-- Content creation teaching and advocating for a healthy web3 community in the Philippines. 
-- Building different types of web application for different industry startups.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Open+for+new+opportunities;Ready+to+collaborate)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+currently+unemployed;You+can+hire+me+:D)](https://git.io/typing-svg)
+### 🧑‍🤝‍🧑 Join My Community 
 
-### ⚛️ Technologies
-
-![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,next,tailwind,graphql,mysql,git,figma,jquery,vscode,vercel&theme=light)
-
-<br />
-
-### 🧑‍🤝‍🧑 Join My Community (we're mostly crypto & nft peeps)
+Join a vibrant community of crypto and NFT enthusiasts.
 
 [![Community](https://discordapp.com/api/guilds/899318565050667030/widget.png?style=banner2)](https://discord.gg/hfc)
 
-<br />
+### ☕ Support My Work
 
-### ☕ If you love what I do, maybe consider buying me a coffee, I really love it!
+If you find value in what I do, consider buying me a coffee.
 
 <a href="https://www.buymeacoffee.com/theoroque" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" width="150" ></a>
 
-<br />
+### 📬 Let's Connect
 
-### I'll see you somewhere! Let's BUILD! ⚒️
+Feel free to connect with me on:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theoroque/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/theoroque95) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/HowdyTh3o) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/HowdyTh3o)
+
+I'm always ready for the next big thing. Let's build something amazing together.
