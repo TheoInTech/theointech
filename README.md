@@ -20,6 +20,12 @@
 
 [![typing svg](https://readme-typing-svg.herokuapp.com/?lines=i'm+building+nonstop;but+you+can+still+hire+me+:d)](https://git.io/typing-svg)
 
+### 🏆 achievements
+
+<a href="[https://www.buymeacoffee.com/theoroque](https://dorahacks.io/badge/b5775)" target="_blank"><img src="https://dorahacks.io/assets/badge-icon/b1_Polygon%20[APAC]%20DevX%20Hackathon%20X%20DoraHacks%20-%20Submit%20Now!.svg" width="100"/></a>
+
+<br />
+
 ### ⚛️ technologies
 
 ![skills](https://skillicons.dev/icons?i=aws,azure,supabase,ts,react,next,tailwind,java,spring,solidity,graphql,mysql,git,figma,vercel&theme=light)
