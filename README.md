@@ -22,7 +22,7 @@
 
 ### 🏆 achievements
 
-<a href="[https://www.buymeacoffee.com/theoroque](https://dorahacks.io/badge/b5775)" target="_blank"><img src="https://dorahacks.io/assets/badge-icon/b1_Polygon%20[APAC]%20DevX%20Hackathon%20X%20DoraHacks%20-%20Submit%20Now!.svg" width="100"/></a>
+<a href="https://dorahacks.io/badge/b5775" target="_blank"><img src="https://dorahacks.io/assets/badge-icon/b1_Polygon%20[APAC]%20DevX%20Hackathon%20X%20DoraHacks%20-%20Submit%20Now!.svg" width="100"/></a>
 
 <br />
 
