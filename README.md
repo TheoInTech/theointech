@@ -10,11 +10,11 @@
 [![tiktok](https://img.shields.io/badge/tiktok-%23000000.svg?&style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@theindiehacker)
 [![facebook](https://img.shields.io/badge/facebook-%231877f2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/theoroque95)
 
-### 🌱 what i've done and what i'm doing? 
+### 🌱 what i've done and what i'm doing?
 
 - helped co-lead junior to senior frontend developers at one of the biggest business processes companies in the globe.
 - founded <a href="https://thehowdystudios.com/" target="_blank">the howdy studios</a>, a web3 dev studio, helping web3 businesses achieve their web3 goal.
-- content creation teaching and advocating for a healthy web3 community in the philippines. 
+- content creation teaching and advocating for a healthy web3 community in the philippines.
 - building different types of web application (mainly micro saas) for different industry startups, focused on emerging technologies like web3 and ai.
 - graduated buildspace n&w s3 and will continue to build on s4! lfg!
 
@@ -22,7 +22,7 @@
 
 ### 🏆 achievements
 
-<a href="https://dorahacks.io/badge/b5775" target="_blank"><img src="https://dorahacks.io/assets/badge-icon/b1_Polygon%20[APAC]%20DevX%20Hackathon%20X%20DoraHacks%20-%20Submit%20Now!.svg" width="100"/></a>
+<a href="https://dorahacks.io/badge/b5775" target="_blank"><img src="https://raw.githubusercontent.com/theindiehacker/theindiehacker/main/Polygon [APAC] DevX Hackathon Winner.png" width="100"/></a>
 
 <br />
 
