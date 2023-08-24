@@ -22,7 +22,7 @@
 
 ### 🏆 achievements
 
-<a href="https://dorahacks.io/badge/b5775" target="_blank"><img src="https://raw.githubusercontent.com/theindiehacker/theindiehacker/main/Polygon [APAC] DevX Hackathon Winner.png" width="100"/></a>
+<a href="https://dorahacks.io/badge/b5775" target="_blank"><img src="https://raw.githubusercontent.com/theindiehacker/theindiehacker/main/Polygon [APAC] DevX Hackathon Winner.png" width="200"/></a>
 
 <br />
 
