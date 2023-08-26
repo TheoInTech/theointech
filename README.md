@@ -22,7 +22,9 @@
 
 ### 🏆 achievements
 
-<a href="https://dorahacks.io/badge/b5775" target="_blank"><img src="https://raw.githubusercontent.com/theindiehacker/theindiehacker/main/Polygon [APAC] DevX Hackathon Winner.png" width="200"/></a>
+<a href="https://dorahacks.io/badge/b5775" target="_blank"><img src="https://raw.githubusercontent.com/theindiehacker/theindiehacker/main/Polygon [APAC] DevX Hackathon Winner.png" height="200"/></a>
+<a href="https://opensea.io/assets/matic/0x5c4e5ae2adead056fd39badce6a5a0e4cebec3ee/12" target="_blank"><img src="https://raw.githubusercontent.com/theindiehacker/theindiehacker/main/nw-s3-cert.png" height="200"/></a>
+<a href="https://www.credly.com/badges/c1aea045-1f54-42ac-90da-6a0f3d182135/public_url" target="_blank"><img src="https://raw.githubusercontent.com/theindiehacker/theindiehacker/main/AWS Certified - Cloud Practitioner.png" height="200"/></a>
 
 <br />
 
