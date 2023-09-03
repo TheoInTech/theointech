@@ -36,7 +36,7 @@
 
 ### ☕ if you love what i do, maybe consider buying me a coffee, i really love it!
 
-<a href="https://www.buymeacoffee.com/_theindiehacker" target="_blank"><script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="_theindiehacker" data-color="#000000" data-emoji="☕"  data-font="Lato" data-text="Buy me a coffee" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script></a>
+<a href="https://www.buymeacoffee.com/_theindiehacker" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="buy me a coffee" width="250" ></a>
 
 <br />
 
