@@ -36,7 +36,7 @@
 
 ### ☕ if you love what i do, maybe consider buying me a coffee, i really love it!
 
-<a href="https://www.buymeacoffee.com/theoroque" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="buy me a coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/_theindiehacker" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="buy me a coffee" width="250" ></a>
 
 <br />
 
