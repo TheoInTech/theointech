@@ -38,11 +38,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=theindiehacker&theme=dark)](https://git.io/streak-stats)
 
-<br />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theindiehacker&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theindiehacker&theme=tokyo-night)](https://github.com/theindiehacker/github-readme-activity-graph)
 
