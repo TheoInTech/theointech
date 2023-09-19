@@ -44,7 +44,7 @@
 
 <br />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theindiehacker&theme=tokyo-night)](https://github.com/ed3ath/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theindiehacker&theme=tokyo-night)](https://github.com/theindiehacker/github-readme-activity-graph)
 
 <br />
 
