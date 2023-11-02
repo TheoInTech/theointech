@@ -4,9 +4,9 @@
 <p>if you want to connect, or maybe you want my help to build something awesome, just hit me up on my socials below 👇</p>
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077b5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theoroque/)
-[![twitter](https://img.shields.io/badge/twitter-%231da1f2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/_theindiehacker)
-[![threads](https://img.shields.io/badge/threads-%23000000.svg?&style=flat-square&logo=threads&logoColor=white)](https://www.threads.net/@_theindiehacker)
-[![youtube](https://img.shields.io/badge/youtube-%23ff0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@_theindiehacker)
+[![twitter](https://img.shields.io/badge/twitter-%231da1f2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/theointech)
+[![threads](https://img.shields.io/badge/threads-%23000000.svg?&style=flat-square&logo=threads&logoColor=white)](https://www.threads.net/@theointech)
+[![youtube](https://img.shields.io/badge/youtube-%23ff0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@theointech)
 [![tiktok](https://img.shields.io/badge/tiktok-%23000000.svg?&style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@theindiehacker)
 [![facebook](https://img.shields.io/badge/facebook-%231877f2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/theoroque95)
 
@@ -46,7 +46,7 @@
 
 ### ☕ if you love what i do, maybe consider buying me a coffee, i really love it!
 
-<a href="https://www.buymeacoffee.com/_theindiehacker" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="buy me a coffee" width="250" ></a>
+<a href="https://www.buymeacoffee.com/theointech" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="buy me a coffee" width="250" ></a>
 
 <br />
 
