@@ -7,7 +7,7 @@
 [![twitter](https://img.shields.io/badge/twitter-%231da1f2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/theointech)
 [![threads](https://img.shields.io/badge/threads-%23000000.svg?&style=flat-square&logo=threads&logoColor=white)](https://www.threads.net/@theointech)
 [![youtube](https://img.shields.io/badge/youtube-%23ff0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@theointech)
-[![tiktok](https://img.shields.io/badge/tiktok-%23000000.svg?&style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@theindiehacker)
+[![tiktok](https://img.shields.io/badge/tiktok-%23000000.svg?&style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@theointech)
 [![facebook](https://img.shields.io/badge/facebook-%231877f2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/theoroque95)
 
 ### 🌱 what i've done and what i'm doing?
@@ -22,9 +22,9 @@
 
 ### 🏆 achievements
 
-<a href="https://dorahacks.io/badge/b5775" target="_blank"><img src="https://raw.githubusercontent.com/theindiehacker/theindiehacker/main/Polygon [APAC] DevX Hackathon Winner.png" height="150"/></a>
-<a href="https://opensea.io/assets/matic/0x5c4e5ae2adead056fd39badce6a5a0e4cebec3ee/12" target="_blank"><img src="https://raw.githubusercontent.com/theindiehacker/theindiehacker/main/nw-s3-cert.jpg" height="150"/></a>
-<a href="https://www.credly.com/badges/c1aea045-1f54-42ac-90da-6a0f3d182135/public_url" target="_blank"><img src="https://raw.githubusercontent.com/theindiehacker/theindiehacker/main/AWS Certified - Cloud Practitioner.png" height="150"/></a>
+<a href="https://dorahacks.io/badge/b5775" target="_blank"><img src="https://raw.githubusercontent.com/theindiehacker/theointech/main/Polygon [APAC] DevX Hackathon Winner.png" height="150"/></a>
+<a href="https://opensea.io/assets/matic/0x5c4e5ae2adead056fd39badce6a5a0e4cebec3ee/12" target="_blank"><img src="https://raw.githubusercontent.com/theointech/theointech/main/nw-s3-cert.jpg" height="150"/></a>
+<a href="https://www.credly.com/badges/c1aea045-1f54-42ac-90da-6a0f3d182135/public_url" target="_blank"><img src="https://raw.githubusercontent.com/theointech/theointech/main/AWS Certified - Cloud Practitioner.png" height="150"/></a>
 
 <br />
 
@@ -36,11 +36,11 @@
 
 ### 📊 my stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=theindiehacker)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=theointech)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theindiehacker&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theointech&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theindiehacker&theme=tokyo-night)](https://github.com/theindiehacker/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theointech&theme=tokyo-night)](https://github.com/theointech/github-readme-activity-graph)
 
 <br />
 
