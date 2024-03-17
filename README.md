@@ -5,7 +5,9 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077b5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theoroque/)
 [![twitter](https://img.shields.io/badge/twitter-%231da1f2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/theointech)
-[![threads](https://img.shields.io/badge/threads-%23000000.svg?&style=flat-square&logo=threads&logoColor=white)](https://www.threads.net/@theointech)
+
+<!-- [![threads](https://img.shields.io/badge/threads-%23000000.svg?&style=flat-square&logo=threads&logoColor=white)](https://www.threads.net/@theointech) -->
+
 [![youtube](https://img.shields.io/badge/youtube-%23ff0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@theointech)
 [![tiktok](https://img.shields.io/badge/tiktok-%23000000.svg?&style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@theointech)
 [![facebook](https://img.shields.io/badge/facebook-%231877f2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/theoroque95)
@@ -16,7 +18,7 @@
 - DAO track winner at the <a href="https://solana.com/hyperdrive" target="_blank">Solana Hyperdrive Hackathon 2023</a> besting 7000+ builders, 900+ project submissions from over 120 countries around the world.
 - volunteer mentor at <a href="https://theblokc.com/" target="_blank">The BLOKC</a> - a provider of education, training and certifications focused on Blockchain & Web3.
 - member at the <a href="https://phl.superteam.fun/" target="_blank">Superteam Philippines</a> - organized as a co-operative of creatives, developers, and operators who are experienced in launching and growing technology businesses in Solana.
-- Artisan at the <a href="https://www.web3builders.dev/" target="_blank">Web3 Builders Alliance (WBA)</a> building <a href="https://www.TheArmadaDAO.xyz/" target="_blank">Armada</a> - A no-code dApp revolutionizing how DAOs are created, managed and integrated. Armada is a DAO for DAOs, by DAOs.
+- artisan at the <a href="https://www.web3builders.dev/" target="_blank">Web3 Builders Alliance (WBA)</a> building <a href="https://www.TheArmadaDAO.xyz/" target="_blank">Armada</a> - a no-code dApp revolutionizing how DAOs are created, managed and integrated. Armada is a DAO for DAOs, by DAOs.
 - founded <a href="https://thehowdystudios.com/" target="_blank">the howdy studios</a>, a web3 dev studio, helping web3 businesses achieve their web3 goal through engineering.
 - creating content - teaching and advocating for a healthy web3 community in the philippines.
 - building different types of web application (mainly micro saas) for different industry startups, focused on emerging technologies like web3 and ai.
