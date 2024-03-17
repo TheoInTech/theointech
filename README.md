@@ -5,9 +5,6 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077b5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theoroque/)
 [![twitter](https://img.shields.io/badge/twitter-%231da1f2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/theointech)
-
-<!-- [![threads](https://img.shields.io/badge/threads-%23000000.svg?&style=flat-square&logo=threads&logoColor=white)](https://www.threads.net/@theointech) -->
-
 [![youtube](https://img.shields.io/badge/youtube-%23ff0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@theointech)
 [![tiktok](https://img.shields.io/badge/tiktok-%23000000.svg?&style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@theointech)
 [![facebook](https://img.shields.io/badge/facebook-%231877f2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/theoroque95)
