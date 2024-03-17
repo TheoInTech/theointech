@@ -11,7 +11,7 @@
 
 ### 🌱 what i've done and what i'm doing?
 
-- managing and mentoring 30+ developers in Frontend, Backend and DevOps across 3 timezones at a Fortune 500 company, building an AI-powered enterprise-level application from the ground up.
+- managing and mentoring 30+ developers across 3 timezones at a Fortune 500 company, building an AI-powered enterprise-level application from the ground up.
 - DAO track winner at the <a href="https://solana.com/hyperdrive" target="_blank">Solana Hyperdrive Hackathon 2023</a> besting 7000+ builders, 900+ project submissions from over 120 countries around the world.
 - volunteer mentor at <a href="https://theblokc.com/" target="_blank">The BLOKC</a> - a provider of education, training and certifications focused on Blockchain & Web3.
 - member at the <a href="https://phl.superteam.fun/" target="_blank">Superteam Philippines</a> - organized as a co-operative of creatives, developers, and operators who are experienced in launching and growing technology businesses in Solana.
