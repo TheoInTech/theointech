@@ -17,15 +17,12 @@ When I'm not debugging my own existence, I’m mentoring devs, scaling startups,
 - **Senior Web3 Engineer @ [HawkFi](https://hawkfi.ag/)** – Leading development on the liquidity yield optimizer & aggregator on Solana.
 - **Country Lead & Dev Mentor @ [Arweave Philippines](https://x.com/ArweavePH)** – Organizing web3 events, mentoring devs and expanding the Arweave & AO ecosystem in the Philippines.
 - **Content Creator & Web3 Advocate** – Teaching & growing the blockchain community in the Philippines.
--
 
 ## 🔙 what i used to do
 
 - **Local Track Winner @ [Solana Renaissance Hackathon 2024](https://www.colosseum.org/renaissance)**
 - **DAO Track Winner @ [Solana Hyperdrive Hackathon 2023](https://solana.com/hyperdrive)** – Bested 7,000+ builders from 120+ countries.
 - **Member @ [Superteam Philippines](https://phl.superteam.fun/)** – Supporting the Solana ecosystem with builders, creatives & operators.
-
-[![typing svg](https://readme-typing-svg.herokuapp.com/?lines=i'm+building+nonstop;but+you+can+still+hire+me+:d)](https://git.io/typing-svg)
 
 ---
 
