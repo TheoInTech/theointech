@@ -1,4 +1,4 @@
-# 👋 hi, i'm [theo](https://theoin.tech/)!
+# 👋 hi, i'm [theo](https://theointech.arweave.ph/)!
 
 **multi-awarded hackathon winner | web3 & ai developer | dev community builder**
 
